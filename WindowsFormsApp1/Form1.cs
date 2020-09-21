@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("goodbye"+ txtbxname.Text); 
+            MessageBox.Show("welcome to lewis's program"+ txtbxname.Text); 
         }
 
         private void TextBox1_TextChanged(object sender, EventArgs e)
